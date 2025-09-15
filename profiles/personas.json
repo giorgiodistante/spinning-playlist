@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "Laura Bianchi",
+    "genere": "F",
+    "età": 52,
+    "generi_preferiti": [
+      "Disco", "Pop", "Italo-disco", "Dance", "Jazz",
+      "Afro house", "EDM", "Commerciale", "Synthwave", "Funk"
+    ],
+    "ruolo": "protestante",
+    "tolleranza": 0.43,
+    "brani_preferiti": ["Dancing with Myself - Billy Idol", "Electric Feel - MGMT"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Marta Gallo",
+    "genere": "F",
+    "età": 55,
+    "generi_preferiti": [
+      "Techno", "Acid techno", "Berlin techno", "Tech-house", "Folk",
+      "Grunge", "Trap francese", "Dance", "Electro-funk", "Jazz vocale"
+    ],
+    "ruolo": "protestante",
+    "tolleranza": 0.37,
+    "brani_preferiti": ["Losing It - FISHER", "Adagio for Strings - Tiësto"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Chiara Romano",
+    "genere": "F",
+    "età": 47,
+    "generi_preferiti": [
+      "Electro-pop", "Pop", "Dance", "Folk", "Electro-funk",
+      "EDM", "Chillstep", "Tropical house", "Latin", "Remix"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.76,
+    "brani_preferiti": ["Sun Is Shining - Axwell & Ingrosso", "Break My Soul - Beyoncé"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Giulia Costa",
+    "genere": "F",
+    "età": 49,
+    "generi_preferiti": [
+      "R&B", "Pop", "Jazz vocale", "Disco funky", "G-Funk",
+      "Downtempo", "Deep house", "World Music", "Funk", "Electro-swing"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.91,
+    "brani_preferiti": ["Get Lucky - Daft Punk", "Ain’t No Mountain High Enough - Marvin Gaye"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "equilibrato"
+  },
+  {
+    "nome": "Alessandra Ferri",
+    "genere": "F",
+    "età": 54,
+    "generi_preferiti": [
+      "Alternative", "Rock", "Britpop", "Pop", "Electro-pop",
+      "Trap", "Electro-funk", "Synthwave", "Post-rock", "Jazz"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.84,
+    "brani_preferiti": ["Come As You Are - Nirvana", "Don't Look Back in Anger - Oasis"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "introspettivo"
+  },
+  {
+    "nome": "Daniela Neri",
+    "genere": "F",
+    "età": 50,
+    "generi_preferiti": [
+      "Chillstep", "Ambient", "Jazz", "Lounge", "Post-rock",
+      "Phonk", "Electro-swing", "Dance", "Blues", "Neo-soul"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.86,
+    "brani_preferiti": ["Weightless - Marconi Union", "Sunset Lover - Petit Biscuit"],
+    "ritmo_preferito": "lento",
+    "ballabilità": "scarso",
+    "umore_musicale": "introspettivo"
+  },
+  {
+    "nome": "Elena Sarti",
+    "genere": "F",
+    "età": 53,
+    "generi_preferiti": [
+      "Latin", "Pop", "Reggaeton", "EDM", "Tropical house",
+      "Dance 2000", "Deep house", "Pop italiano", "Afro house", "Trap"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.73,
+    "brani_preferiti": ["Despacito - Luis Fonsi", "Taki Taki - DJ Snake"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Sonia Gallo",
+    "genere": "F",
+    "età": 45,
+    "generi_preferiti": [
+      "Trap", "Hip-hop", "Rap Italiano", "Dance 2000", "Phonk",
+      "Lo-fi beats", "Dance", "EDM", "Electro-funk", "Swing"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.69,
+    "brani_preferiti": ["Blue - Eiffel 65", "See You Again - Wiz Khalifa"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Lucia Mazzi",
+    "genere": "F",
+    "età": 48,
+    "generi_preferiti": [
+      "Pop", "World Music", "Bossa nova", "Jazz vocale", "Commerciale",
+      "Italo-disco", "Musica italiana", "Funk", "Folk", "Swing"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.79,
+    "brani_preferiti": ["The Girl from Ipanema", "September - Earth, Wind & Fire"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "equilibrato"
+  },
+  {
+    "nome": "Caterina Botti",
+    "genere": "F",
+    "età": 51,
+    "generi_preferiti": [
+      "Techno", "Hard trance", "EDM", "Dance", "Trap",
+      "Big room", "Remix", "Afro house", "Electro-funk", "Latin"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.72,
+    "brani_preferiti": ["Phobos - Boris Brejcha", "Lose Control - Meduza"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Simona Valli",
+    "genere": "F",
+    "età": 57,
+    "generi_preferiti": [
+      "Pop italiano", "Jazz", "Dance", "Remix", "Disco",
+      "Electro-pop", "Italo-disco", "Ambient", "Lo-fi beats", "Latin"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.77,
+    "brani_preferiti": ["Che cosa c'è - Gino Paoli", "We No Speak Americano - Yolanda Be Cool"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "equilibrato"
+  },
+  {
+    "nome": "Paola Zani",
+    "genere": "F",
+    "età": 46,
+    "generi_preferiti": [
+      "Techno", "Latin", "Tropical house", "Big room", "Pop",
+      "Trap", "Dance", "Afro house", "Berlin techno", "Indie elettronico"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.71,
+    "brani_preferiti": ["Taki Taki - DJ Snake", "The Age of Love - Charlotte de Witte"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Claudia Ponti",
+    "genere": "F",
+    "età": 49,
+    "generi_preferiti": [
+      "Chillstep", "Phonk", "Pop", "Jazz vocale", "Electro-pop",
+      "Lounge", "Electro-swing", "Disco", "Downtempo", "Pop italiano"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.65,
+    "brani_preferiti": ["Sunset Lover - Petit Biscuit", "Staying Alive - Bee Gees"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "introspettivo"
+  },
+  {
+    "nome": "Irene Melani",
+    "genere": "F",
+    "età": 55,
+    "generi_preferiti": [
+      "Funk", "R&B", "G-Funk", "Electro-funk", "Neo-soul",
+      "Pop", "Electro-pop", "Dance", "Disco", "Jazz"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.74,
+    "brani_preferiti": ["Uptown Funk - Bruno Mars", "Regulate - Warren G"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Silvia Conti",
+    "genere": "F",
+    "età": 50,
+    "generi_preferiti": [
+      "Ambient", "Afro house", "Musica italiana", "Remix", "Jazz vocale",
+      "Disco", "Lounge", "World Music", "Pop italiano", "Folk"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.70,
+    "brani_preferiti": ["Dolce Vita - Ryan Paris", "Turn Me On - Kevin McKay"],
+    "ritmo_preferito": "lento",
+    "ballabilità": "scarso",
+    "umore_musicale": "introspettivo"
+  },
+  {
+    "nome": "Edoardo Monti",
+    "genere": "M",
+    "età": 59,
+    "generi_preferiti": [
+      "Techno", "Disco", "Berlin techno", "Folk", "Trap francese",
+      "Ambient", "Jazz", "Alternative", "Punk", "Grunge"
+    ],
+    "ruolo": "protestante",
+    "tolleranza": 0.29,
+    "brani_preferiti": ["Monolink - Return to Oz", "Last Night a DJ Saved My Life - Indeep"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "equilibrato"
+  },
+  {
+    "nome": "Luca Verdi",
+    "genere": "M",
+    "età": 51,
+    "generi_preferiti": [
+      "Rock", "EDM", "Big room", "Pop", "Tropical house",
+      "Trap", "Drum and bass", "Tech-house", "Jazz", "Alternative"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.81,
+    "brani_preferiti": ["Comfortably Numb - Pink Floyd", "Cross Road Blues - Robert Johnson"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "medio",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Gianni Russo",
+    "genere": "M",
+    "età": 60,
+    "generi_preferiti": [
+      "Jazz", "Swing", "Disco", "Pop italiano", "Commerciale",
+      "Electro-swing", "World Music", "Musica italiana", "Funk", "Neo-soul"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.71,
+    "brani_preferiti": ["So What - Miles Davis", "Can't Get You Out of My Head - Kylie Minogue"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "scarso",
+    "umore_musicale": "equilibrato"
+  },
+  {
+    "nome": "Fabio Marchi",
+    "genere": "M",
+    "età": 47,
+    "generi_preferiti": [
+      "Trap", "EDM", "Rap Italiano", "Trap francese", "Drum and bass",
+      "Dance", "Electro-funk", "Techno", "Synthwave", "Grunge"
+    ],
+    "ruolo": "adattabile",
+    "tolleranza": 0.66,
+    "brani_preferiti": ["Toulouse - DJ Snake", "Reine - Dadju"],
+    "ritmo_preferito": "veloce",
+    "ballabilità": "alto",
+    "umore_musicale": "solare"
+  },
+  {
+    "nome": "Andrea Fabbri",
+    "genere": "M",
+    "età": 55,
+    "generi_preferiti": [
+      "Post-rock", "Jazz", "Ambient", "Downtempo", "Electro-funk",
+      "Rock", "Chillstep", "Alternative", "Musica italiana", "Lounge"
+    ],
+    "ruolo": "protestante",
+    "tolleranza": 0.38,
+    "brani_preferiti": ["First Breath After Coma - Explosions in the Sky", "Weightless - Marconi Union"],
+    "ritmo_preferito": "moderato",
+    "ballabilità": "medio",
+    "umore_musicale": "introspettivo"
+  }
+]
+

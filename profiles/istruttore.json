@@ -1,0 +1,15 @@
+{
+  "nome": "Marco Rinaldi",
+  "genere": "M",
+  "età": 42,
+  "generi_preferiti": [
+    "Hard trance", "Electro-funk", "Indie elettronico ", "Blues", "Hip-hop ",
+    "EDM", "Britpop", "Punk", "Bossa nova", "Electro-pop"
+  ],
+  "ruolo": "adattabile",
+  "tolleranza": 0.82,
+  "brani_preferiti": ["Uptown Funk - Mark Ronson", "Music Sounds Better With You - Stardust"],
+  "ritmo_preferito": "veloce",
+  "ballabilità": "alto",
+  "umore_musicale": "solare"
+}

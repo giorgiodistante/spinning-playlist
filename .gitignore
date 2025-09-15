@@ -1,0 +1,18 @@
+# Cache e compilati Python
+__pycache__/
+*.py[cod]
+
+# Ambienti virtuali
+venv/
+.venv/
+
+# File temporanei e di output
+*.log
+output/
+
+# Cache Spotify
+.cache
+.cache-*
+
+# Credenziali locali
+.env
