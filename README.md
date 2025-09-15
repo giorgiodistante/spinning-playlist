@@ -77,5 +77,5 @@ spinning-playlist/
 │─ profiles/           # personas e istruttore (JSON)
 │─ requirements.txt
 │─ .env.example        # modello delle variabili
-```
 │─ .gitignore
+```
